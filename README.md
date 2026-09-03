@@ -1,13 +1,11 @@
+<img width="1920" height="949" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/2a1f29ee-cd5b-47f4-b69c-dfafc1b47db6" />
 
 ```markdown
 # Autonomous Procurement & Supply Chain Negotiator
 
 > **An AI-powered procurement dashboard that helps supply chain managers respond to disruptions in seconds instead of hours.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-vercel.app-green)](https://autonomous-pied.vercel.app/)
-[![WebMCP](https://img.shields.io/badge/Powered_By-WebMCP-blue)](https://developer.chrome.com/docs/web-platform/webmcp/)
-[![Next.js](https://img.shields.io/badge/Built_With-Next.js-black)](https://nextjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+![Uploading Screenshot (92).png…]()
 
 ---
 
@@ -86,6 +84,7 @@ if (!isValid) throw new Error("Invalid or expired approval token");
 ## 🚀 Live Demo
 
 **Try it yourself:** [https://autonomous-pied.vercel.app/](https://autonomous-pied.vercel.app/)
+<img width="1920" height="934" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/7926f1e7-0c8d-4cd5-992b-1d48128f057b" />
 
 **Requirements:**
 - Open in **ChatGPT desktop app** (WebMCP is built-in — no setup needed)
@@ -108,6 +107,7 @@ if (!isValid) throw new Error("Invalid or expired approval token");
 | **API** | WebMCP, CommodityPriceAPI, CerebroChain (planned) |
 
 ---
+<img width="5899" height="4639" alt="deepseek_mermaid_20260903_3ac284" src="https://github.com/user-attachments/assets/265f43cd-4744-490b-bfab-a8a7627c59a0" />
 
 ## 🏃 Quick Start (Local Development)
 
@@ -378,6 +378,4 @@ If you found this useful, please give the repo a star ⭐ and share it!
 
 **Made with ❤️ for the WebMCP Challenge**
 ```
-
--
 
