@@ -1,8 +1,3 @@
-Here's a **complete README.md** file for your GitHub repository. It's written for anyone to understand—judges, developers, and curious visitors.
-
----
-
-## 📄 README.md (Copy-Paste Ready)
 
 ```markdown
 # Autonomous Procurement & Supply Chain Negotiator
